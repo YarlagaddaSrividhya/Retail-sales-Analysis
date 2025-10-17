@@ -1,0 +1,21 @@
+OrderID,OrderDate,CustomerID,Product,Category,Quantity,UnitPrice,Country
+1001,05-01-2024,C001,Laptop Bag,Accessories,2,25.99,India
+1002,07-01-2024,C002,Wireless Mouse,Accessories,1,15.49,India
+1003,09-01-2024,C003,Bluetooth Speaker,Electronics,1,55,USA
+1004,15-01-2024,C004,Smartphone Case,Accessories,3,9.99,UK
+1005,02-02-2024,C002,Laptop Bag,Accessories,1,25.99,India
+1006,05-02-2024,C005,Monitor 24 inch,Electronics,1,149.99,USA
+1007,07-02-2024,C006,Keyboard Wireless,Electronics,1,35.5,UK
+1008,11-02-2024,C007,Bluetooth Speaker,Electronics,2,55,Germany
+1009,01-03-2024,C003,Laptop Stand,Accessories,1,19.99,USA
+1010,03-03-2024,C008,Gaming Mouse,Electronics,2,29.99,India
+1011,06-03-2024,C009,Monitor 27 inch,Electronics,1,199.99,UK
+1012,10-03-2024,C010,Smartphone Case,Accessories,4,9.99,India
+1013,15-03-2024,C011,Laptop Bag,Accessories,1,25.99,Germany
+1014,01-04-2024,C005,Wireless Mouse,Accessories,3,15.49,USA
+1015,02-04-2024,C012,Keyboard Wireless,Electronics,2,35.5,UK
+1016,04-04-2024,C003,Bluetooth Speaker,Electronics,1,55,USA
+1017,08-04-2024,C002,Monitor 24 inch,Electronics,1,149.99,India
+1018,12-04-2024,C009,Gaming Mouse,Electronics,1,29.99,UK
+1019,15-04-2024,C007,Smartphone Case,Accessories,2,9.99,Germany
+1020,20-04-2024,C010,Laptop Bag,Accessories,1,25.99,India
